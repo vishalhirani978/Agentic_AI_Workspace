@@ -1,0 +1,10 @@
+langchain
+langgraph
+langsmith
+python-dotenv
+numpy
+matplotlib
+pandas
+scikit-learn
+tensorboard
+langchain-groq
